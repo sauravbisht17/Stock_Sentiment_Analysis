@@ -9,7 +9,7 @@ This repository contains a Jupyter Notebook with code for sentiment analysis on 
 - [Usage](#usage)
 - [Notebook Structure](#notebook-structure)
 - [Contributing](#contributing)
-- [License](#license)
+
 
 ## Introduction
 
